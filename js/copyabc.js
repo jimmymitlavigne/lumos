@@ -44,7 +44,7 @@ var createSnackbar = function() {
         previous = snackbar,
         document.body.appendChild(snackbar),
         getComputedStyle(snackbar).bottom,
-        snackbar.style.bottom = "70px",
+        snackbar.style.bottom = "66px",
         snackbar.style.left = "0px",
         snackbar.style.opacity = 1
     }
