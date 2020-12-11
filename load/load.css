@@ -1,6 +1,6 @@
 #loading {
     background: url('https://cdn.jsdelivr.net/gh/jimmymitlavigne/lumos/load/loader-1.gif') no-repeat center center;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     height: 100%;
